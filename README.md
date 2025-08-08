@@ -1,6 +1,6 @@
 # Internal Controls Dashboard – Power BI Project
 
-![Dashboard Preview](dashboard preview.png)
+![Dashboard Preview](Dashboard preview.png)
 
 This Power BI project analyses a set of expense claims to assess compliance with internal controls, focusing on high-value claims and claims rejected due to missing approvals.
 
