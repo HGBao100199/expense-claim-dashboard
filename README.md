@@ -2,7 +2,7 @@
 
 ![Dashboard Preview](preview.png)
 
-This Power BI project analyses a set of expense claims to assess compliance with internal controls, focusing on high-value claims and claims rejected due to missing approvals.
+This Power BI project analyses a set of expense claims to assess compliance with internal controls, focusing on high-value claims and claims rejected due to missing approvals. Please download the file 'Expense Claim Audit.pbix' to interact with the dashboard.
 
 ## 📊 Project Overview
 
